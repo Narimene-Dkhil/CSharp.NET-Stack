@@ -1,3 +1,3 @@
-![ArtStagram](1695919858_ArtstagramV23.png)
+![ArtStagram](ArtStagram.png)
 
-![ReadMe](1695919876_ASReqsV23.png)
+![ReadMe](Requirements.png)
